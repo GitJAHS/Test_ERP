@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise ERP System",
+  "description": "An enterprise-grade, offline-first Material You ERP featuring IndexedDB, multi-profile corporate switching, advanced real-time CRM, Inventory, Invoicing, Sales, Expense Tracking, HRM, Suppliers, and PWA capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

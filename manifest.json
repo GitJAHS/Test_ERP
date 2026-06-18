@@ -1,0 +1,22 @@
+{
+  "short_name": "ERP Enterprise",
+  "name": "Enterprise ERP System",
+  "description": "Enterprise-grade local-first offline-capable ERP system styled with Material You.",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/engineering.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/engineering.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFBFE",
+  "theme_color": "#6750A4",
+  "display": "standalone",
+  "orientation": "portrait"
+}
